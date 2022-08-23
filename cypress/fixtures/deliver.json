@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Victor Ariel",
+        "cpf": "00056787609",
+        "email": "victorariel@gmail.com",
+        "whatsapp": "85987453245",
+        "address": {
+            "postalcode": "60751080",
+            "street": "Rua 89",
+            "number": "93",
+            "details": "2 etapa",
+            "district": "Prefeito José Walter",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_medoto": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Victor Ariel",
+        "cpf": "x0567876AA",
+        "email": "victorariel@gmail.com",
+        "whatsapp": "85987453245",
+        "address": {
+            "postalcode": "60751080",
+            "street": "Rua 89",
+            "number": "93",
+            "details": "2 etapa",
+            "district": "Prefeito José Walter",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_medoto": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+            "name": "Victor Ariel",
+            "cpf": "00567876741",
+            "email": "victor.com.br",
+            "whatsapp": "85987453245",
+            "address": {
+                "postalcode": "60751080",
+                "street": "Rua 89",
+                "number": "93",
+                "details": "2 etapa",
+                "district": "Prefeito José Walter",
+                "city_state": "Fortaleza/CE"
+            },
+            "delivery_medoto": "Moto",
+            "cnh": "cnh-digital.jpg"
+        }
+    }
